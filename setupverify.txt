@@ -1,0 +1,20 @@
+user
+GNU bash, version 4.4.23(1)-release (x86_64-pc-msys)
+Copyright (C) 2016 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+vs code version info
+1.48.2
+a0479759d6e9ea56afa657e454193f72aef85bd0
+x64
+git version 2.28.0.windows.1
+git user name
+VicNart
+git user email
+nartey571@gmail.com
+node version
+v14.9.0
+npm version
+6.14.8
